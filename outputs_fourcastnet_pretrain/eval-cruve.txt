@@ -1,0 +1,180 @@
+[2024/10/29 20:08:10] ppsci INFO: [Train][Epoch  1/60][Iter 4080/4080] lr: 0.00050, loss: 0.14073, Sup: 0.14073, batch_cost: 0.29474s, reader_cost: 0.00025s, ips: 3.39, eta: 19:42:29
+[2024/10/29 20:08:32] ppsci INFO: [Eval][Epoch  1/60][Iter 30/30] Sup_Validator/loss: 0.08196, batch_cost: 0.68857s, reader_cost: 0.00024s, ips: 11.62, eta: 0:00:00
+
+[2024/10/29 20:28:34] ppsci INFO: [Train][Epoch  2/60][Iter 4080/4080] lr: 0.00050, loss: 0.08453, Sup: 0.08453, batch_cost: 0.29306s, reader_cost: 0.00023s, ips: 3.41, eta: 19:15:50
+[2024/10/29 20:28:56] ppsci INFO: [Eval][Epoch  2/60][Iter 30/30] Sup_Validator/loss: 0.06055, batch_cost: 0.68791s, reader_cost: 0.00019s, ips: 11.63, eta: 0:00:00
+
+[2024/10/29 20:49:02] ppsci INFO: [Train][Epoch  3/60][Iter 4080/4080] lr: 0.00050, loss: 0.07231, Sup: 0.07231, batch_cost: 0.29290s, reader_cost: 0.00023s, ips: 3.41, eta: 18:55:17
+[2024/10/29 20:49:24] ppsci INFO: [Eval][Epoch  3/60][Iter 30/30] Sup_Validator/loss: 0.05078, batch_cost: 0.68714s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+
+2024/10/29 21:09:28] ppsci INFO: [Train][Epoch  4/60][Iter 4080/4080] lr: 0.00050, loss: 0.08741, Sup: 0.08741, batch_cost: 0.29251s, reader_cost: 0.00023s, ips: 3.42, eta: 18:33:51
+[2024/10/29 21:09:49] ppsci INFO: [Eval][Epoch  4/60][Iter 30/30] Sup_Validator/loss: 0.05497, batch_cost: 0.68694s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/29 21:29:27] ppsci INFO: [Train][Epoch  5/60][Iter 4080/4080] lr: 0.00049, loss: 0.06535, Sup: 0.06535, batch_cost: 0.28710s, reader_cost: 0.00021s, ips: 3.48, eta: 17:53:44
+[2024/10/29 21:29:48] ppsci INFO: [Eval][Epoch  5/60][Iter 30/30] Sup_Validator/loss: 0.04683, batch_cost: 0.68791s, reader_cost: 0.00020s, ips: 11.63, eta: 0:00:00
+
+[2024/10/29 21:49:40] ppsci INFO: [Train][Epoch  6/60][Iter 4080/4080] lr: 0.00049, loss: 0.06748, Sup: 0.06748, batch_cost: 0.28930s, reader_cost: 0.00021s, ips: 3.46, eta: 17:42:18
+[2024/10/29 21:50:02] ppsci INFO: [Eval][Epoch  6/60][Iter 30/30] Sup_Validator/loss: 0.04440, batch_cost: 0.68684s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/29 22:09:50] ppsci INFO: [Train][Epoch  7/60][Iter 4080/4080] lr: 0.00049, loss: 0.07757, Sup: 0.07757, batch_cost: 0.28871s, reader_cost: 0.00021s, ips: 3.46, eta: 17:20:30
+[2024/10/29 22:10:12] ppsci INFO: [Eval][Epoch  7/60][Iter 30/30] Sup_Validator/loss: 0.08413, batch_cost: 0.68741s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/29 22:29:54] ppsci INFO: [Train][Epoch  8/60][Iter 4080/4080] lr: 0.00048, loss: 0.06199, Sup: 0.06199, batch_cost: 0.28810s, reader_cost: 0.00021s, ips: 3.47, eta: 16:58:43
+[2024/10/29 22:30:15] ppsci INFO: [Eval][Epoch  8/60][Iter 30/30] Sup_Validator/loss: 0.04422, batch_cost: 0.68785s, reader_cost: 0.00021s, ips: 11.63, eta: 0:00:00
+
+[2024/10/29 22:49:57] ppsci INFO: [Train][Epoch  9/60][Iter 4080/4080] lr: 0.00048, loss: 0.05815, Sup: 0.05815, batch_cost: 0.28808s, reader_cost: 0.00021s, ips: 3.47, eta: 16:39:02
+[2024/10/29 22:50:19] ppsci INFO: [Eval][Epoch  9/60][Iter 30/30] Sup_Validator/loss: 0.04371, batch_cost: 0.68678s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/29 23:09:59] ppsci INFO: [Train][Epoch 10/60][Iter 4080/4080] lr: 0.00047, loss: 0.08456, Sup: 0.08456, batch_cost: 0.28779s, reader_cost: 0.00021s, ips: 3.47, eta: 16:18:28
+[2024/10/29 23:10:21] ppsci INFO: [Eval][Epoch 10/60][Iter 30/30] Sup_Validator/loss: 0.05605, batch_cost: 0.68687s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/29 23:30:01] ppsci INFO: [Train][Epoch 11/60][Iter 4080/4080] lr: 0.00047, loss: 0.06596, Sup: 0.06596, batch_cost: 0.28766s, reader_cost: 0.00021s, ips: 3.48, eta: 15:58:28
+[2024/10/29 23:30:23] ppsci INFO: [Eval][Epoch 11/60][Iter 30/30] Sup_Validator/loss: 0.04712, batch_cost: 0.68655s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+2024/10/29 23:49:59] ppsci INFO: [Train][Epoch 12/60][Iter 4080/4080] lr: 0.00046, loss: 0.07160, Sup: 0.07160, batch_cost: 0.28691s, reader_cost: 0.00021s, ips: 3.49, eta: 15:36:28
+[2024/10/29 23:50:21] ppsci INFO: [Eval][Epoch 12/60][Iter 30/30] Sup_Validator/loss: 0.04698, batch_cost: 0.68623s, reader_cost: 0.00020s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 00:09:59] ppsci INFO: [Train][Epoch 13/60][Iter 4080/4080] lr: 0.00045, loss: 0.05747, Sup: 0.05747, batch_cost: 0.28712s, reader_cost: 0.00021s, ips: 3.48, eta: 15:17:38
+[2024/10/30 00:10:20] ppsci INFO: [Eval][Epoch 13/60][Iter 30/30] Sup_Validator/loss: 0.04144, batch_cost: 0.68695s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 00:30:03] ppsci INFO: [Train][Epoch 14/60][Iter 4080/4080] lr: 0.00044, loss: 0.06333, Sup: 0.06333, batch_cost: 0.28708s, reader_cost: 0.00021s, ips: 3.48, eta: 14:57:59
+[2024/10/30 00:30:25] ppsci INFO: [Eval][Epoch 14/60][Iter 30/30] Sup_Validator/loss: 0.04230, batch_cost: 0.68746s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 00:50:04] ppsci INFO: [Train][Epoch 15/60][Iter 4080/4080] lr: 0.00044, loss: 0.05531, Sup: 0.05531, batch_cost: 0.28738s, reader_cost: 0.00021s, ips: 3.48, eta: 14:39:23
+[2024/10/30 00:50:25] ppsci INFO: [Eval][Epoch 15/60][Iter 30/30] Sup_Validator/loss: 0.04008, batch_cost: 0.68619s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 01:10:13] ppsci INFO: [Train][Epoch 16/60][Iter 4080/4080] lr: 0.00043, loss: 0.05426, Sup: 0.05426, batch_cost: 0.28847s, reader_cost: 0.00021s, ips: 3.47, eta: 14:23:05
+[2024/10/30 01:10:34] ppsci INFO: [Eval][Epoch 16/60][Iter 30/30] Sup_Validator/loss: 0.03970, batch_cost: 0.68640s, reader_cost: 0.00021s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 01:30:14] ppsci INFO: [Train][Epoch 17/60][Iter 4080/4080] lr: 0.00042, loss: 0.06353, Sup: 0.06353, batch_cost: 0.28749s, reader_cost: 0.00021s, ips: 3.48, eta: 14:00:37
+[2024/10/30 01:30:35] ppsci INFO: [Eval][Epoch 17/60][Iter 30/30] Sup_Validator/loss: 0.04392, batch_cost: 0.68691s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 01:50:12] ppsci INFO: [Train][Epoch 18/60][Iter 4080/4080] lr: 0.00041, loss: 0.05471, Sup: 0.05471, batch_cost: 0.28668s, reader_cost: 0.00021s, ips: 3.49, eta: 13:38:46
+[2024/10/30 01:50:33] ppsci INFO: [Eval][Epoch 18/60][Iter 30/30] Sup_Validator/loss: 0.03950, batch_cost: 0.68640s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 02:10:09] ppsci INFO: [Train][Epoch 19/60][Iter 4080/4080] lr: 0.00040, loss: 0.05264, Sup: 0.05264, batch_cost: 0.28545s, reader_cost: 0.00020s, ips: 3.50, eta: 13:15:49
+[2024/10/30 02:10:30] ppsci INFO: [Eval][Epoch 19/60][Iter 30/30] Sup_Validator/loss: 0.03852, batch_cost: 0.68691s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 02:30:04] ppsci INFO: [Train][Epoch 20/60][Iter 4080/4080] lr: 0.00039, loss: 0.05167, Sup: 0.05167, batch_cost: 0.28486s, reader_cost: 0.00020s, ips: 3.51, eta: 12:54:48
+[2024/10/30 02:30:25] ppsci INFO: [Eval][Epoch 20/60][Iter 30/30] Sup_Validator/loss: 0.03833, batch_cost: 0.68685s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 02:49:53] ppsci INFO: [Train][Epoch 21/60][Iter 4080/4080] lr: 0.00038, loss: 0.05117, Sup: 0.05117, batch_cost: 0.28469s, reader_cost: 
+[2024/10/30 02:50:15] ppsci INFO: [Eval][Epoch 21/60][Iter 30/30] Sup_Validator/loss: 0.03765, batch_cost: 0.68692s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 03:09:50] ppsci INFO: [Train][Epoch 22/60][Iter 4080/4080] lr: 0.00036, loss: 0.05012, Sup: 0.05012, batch_cost: 0.28538s, reader_cost: 0.00020s, ips: 3.50, eta: 12:17:24
+[2024/10/30 03:10:12] ppsci INFO: [Eval][Epoch 22/60][Iter 30/30] Sup_Validator/loss: 0.03848, batch_cost: 0.68623s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 03:29:40] ppsci INFO: [Train][Epoch 23/60][Iter 4080/4080] lr: 0.00035, loss: 0.04948, Sup: 0.04948, batch_cost: 0.28472s, reader_cost: 0.00020s, ips: 3.51, eta: 11:56:22
+[2024/10/30 03:30:01] ppsci INFO: [Eval][Epoch 23/60][Iter 30/30] Sup_Validator/loss: 0.03703, batch_cost: 0.68680s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 03:49:37] ppsci INFO: [Train][Epoch 24/60][Iter 4080/4080] lr: 0.00034, loss: 0.04872, Sup: 0.04872, batch_cost: 0.28534s, reader_cost: 0.00020s, ips: 3.50, eta: 11:38:30
+[2024/10/30 03:49:58] ppsci INFO: [Eval][Epoch 24/60][Iter 30/30] Sup_Validator/loss: 0.03608, batch_cost: 0.68674s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 04:09:39] ppsci INFO: [Train][Epoch 25/60][Iter 4080/4080] lr: 0.00033, loss: 0.05938, Sup: 0.05938, batch_cost: 0.28650s, reader_cost: 0.00021s, ips: 3.49, eta: 11:21:52
+[2024/10/30 04:10:00] ppsci INFO: [Eval][Epoch 25/60][Iter 30/30] Sup_Validator/loss: 0.04117, batch_cost: 0.68623s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 04:29:40] ppsci INFO: [Train][Epoch 26/60][Iter 4080/4080] lr: 0.00031, loss: 0.06016, Sup: 0.06016, batch_cost: 0.28767s, reader_cost: 0.00021s, ips: 3.48, eta: 11:05:05
+[2024/10/30 04:30:02] ppsci INFO: [Eval][Epoch 26/60][Iter 30/30] Sup_Validator/loss: 0.03806, batch_cost: 0.68651s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 04:49:41] ppsci INFO: [Train][Epoch 27/60][Iter 4080/4080] lr: 0.00030, loss: 0.04927, Sup: 0.04927, batch_cost: 0.28760s, reader_cost: 0.00021s, ips: 3.48, eta: 10:45:22
+[2024/10/30 04:50:03] ppsci INFO: [Eval][Epoch 27/60][Iter 30/30] Sup_Validator/loss: 0.03602, batch_cost: 0.68656s, reader_cost: 0.00021s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 05:09:41] ppsci INFO: [Train][Epoch 28/60][Iter 4080/4080] lr: 0.00029, loss: 0.04780, Sup: 0.04780, batch_cost: 0.28709s, reader_cost: 0.00021s, ips: 3.48, eta: 10:24:42
+[2024/10/30 05:10:02] ppsci INFO: [Eval][Epoch 28/60][Iter 30/30] Sup_Validator/loss: 0.03572, batch_cost: 0.68685s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 05:29:45] ppsci INFO: [Train][Epoch 29/60][Iter 4080/4080] lr: 0.00028, loss: 0.04731, Sup: 0.04731, batch_cost: 0.28707s, reader_cost: 0.00021s, ips: 3.48, eta: 10:05:09
+[2024/10/30 05:30:07] ppsci INFO: [Eval][Epoch 29/60][Iter 30/30] Sup_Validator/loss: 0.03547, batch_cost: 0.68627s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 05:49:48] ppsci INFO: [Train][Epoch 30/60][Iter 4080/4080] lr: 0.00026, loss: 0.04672, Sup: 0.04672, batch_cost: 0.28708s, reader_cost: 0.00021s, ips: 3.48, eta: 9:45:39
+[2024/10/30 05:50:10] ppsci INFO: [Eval][Epoch 30/60][Iter 30/30] Sup_Validator/loss: 0.03508, batch_cost: 0.68718s, reader_cost: 0.00019s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 06:09:53] ppsci INFO: [Train][Epoch 31/60][Iter 4080/4080] lr: 0.00025, loss: 0.04611, Sup: 0.04611, batch_cost: 0.28711s, reader_cost: 0.00021s, ips: 3.48, eta: 9:26:10
+[2024/10/30 06:10:14] ppsci INFO: [Eval][Epoch 31/60][Iter 30/30] Sup_Validator/loss: 0.03494, batch_cost: 0.68634s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+2024/10/30 06:30:00] ppsci INFO: [Train][Epoch 32/60][Iter 4080/4080] lr: 0.00024, loss: 0.04555, Sup: 0.04555, batch_cost: 0.28891s, reader_cost: 0.00022s, ips: 3.46, eta: 9:10:04
+[2024/10/30 06:30:21] ppsci INFO: [Eval][Epoch 32/60][Iter 30/30] Sup_Validator/loss: 0.03456, batch_cost: 0.68628s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 06:50:13] ppsci INFO: [Train][Epoch 33/60][Iter 4080/4080] lr: 0.00022, loss: 0.04504, Sup: 0.04504, batch_cost: 0.28942s, reader_cost: 0.00021s, ips: 3.46, eta: 8:51:22
+[2024/10/30 06:50:34] ppsci INFO: [Eval][Epoch 33/60][Iter 30/30] Sup_Validator/loss: 0.03421, batch_cost: 0.68721s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 07:10:26] ppsci INFO: [Train][Epoch 34/60][Iter 4080/4080] lr: 0.00021, loss: 0.04461, Sup: 0.04461, batch_cost: 0.28935s, reader_cost: 0.00021s, ips: 3.46, eta: 8:31:34
+[2024/10/30 07:10:48] ppsci INFO: [Eval][Epoch 34/60][Iter 30/30] Sup_Validator/loss: 0.03407, batch_cost: 0.68651s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 07:30:35] ppsci INFO: [Train][Epoch 35/60][Iter 4080/4080] lr: 0.00020, loss: 0.04409, Sup: 0.04409, batch_cost: 0.28958s, reader_cost: 0.00022s, ips: 3.45, eta: 8:12:16
+[2024/10/30 07:30:57] ppsci INFO: [Eval][Epoch 35/60][Iter 30/30] Sup_Validator/loss: 0.03388, batch_cost: 0.68636s, reader_cost: 0.00020s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 07:50:49] ppsci INFO: [Train][Epoch 36/60][Iter 4080/4080] lr: 0.00019, loss: 0.04369, Sup: 0.04369, batch_cost: 0.28967s, reader_cost: 0.00022s, ips: 3.45, eta: 7:52:44
+[2024/10/30 07:51:11] ppsci INFO: [Eval][Epoch 36/60][Iter 30/30] Sup_Validator/loss: 0.03397, batch_cost: 0.68729s, reader_cost: 0.00023s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 08:10:57] ppsci INFO: [Train][Epoch 37/60][Iter 4080/4080] lr: 0.00017, loss: 0.04324, Sup: 0.04324, batch_cost: 0.28905s, reader_cost: 0.00022s, ips: 3.46, eta: 7:32:04
+[2024/10/30 08:11:19] ppsci INFO: [Eval][Epoch 37/60][Iter 30/30] Sup_Validator/loss: 0.03338, batch_cost: 0.68638s, reader_cost: 0.00019s, ips: 11.66, eta: 0:00:00
+
+2024/10/30 08:31:10] ppsci INFO: [Train][Epoch 38/60][Iter 4080/4080] lr: 0.00016, loss: 0.04285, Sup: 0.04285, batch_cost: 0.28926s, reader_cost: 0.00022s, ips: 3.46, eta: 7:12:43
+[2024/10/30 08:31:31] ppsci INFO: [Eval][Epoch 38/60][Iter 30/30] Sup_Validator/loss: 0.03324, batch_cost: 0.68742s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 08:51:08] ppsci INFO: [Train][Epoch 39/60][Iter 4080/4080] lr: 0.00015, loss: 0.04249, Sup: 0.04249, batch_cost: 0.28565s, reader_cost: 0.00022s, ips: 3.50, eta: 6:47:54
+[2024/10/30 08:51:29] ppsci INFO: [Eval][Epoch 39/60][Iter 30/30] Sup_Validator/loss: 0.03312, batch_cost: 0.68697s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 09:11:06] ppsci INFO: [Train][Epoch 40/60][Iter 4080/4080] lr: 0.00014, loss: 0.04214, Sup: 0.04214, batch_cost: 0.28568s, reader_cost: 0.00021s, ips: 3.50, eta: 6:28:31
+[2024/10/30 09:11:27] ppsci INFO: [Eval][Epoch 40/60][Iter 30/30] Sup_Validator/loss: 0.03290, batch_cost: 0.68699s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 09:31:11] ppsci INFO: [Train][Epoch 41/60][Iter 4080/4080] lr: 0.00013, loss: 0.04181, Sup: 0.04181, batch_cost: 0.28747s, reader_cost: 0.00022s, ips: 3.48, eta: 6:11:24
+[2024/10/30 09:31:33] ppsci INFO: [Eval][Epoch 41/60][Iter 30/30] Sup_Validator/loss: 0.03273, batch_cost: 0.68647s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 09:51:14] ppsci INFO: [Train][Epoch 42/60][Iter 4080/4080] lr: 0.00011, loss: 0.04151, Sup: 0.04151, batch_cost: 0.28702s, reader_cost: 0.00021s, ips: 3.48, eta: 5:51:18
+[2024/10/30 09:51:36] ppsci INFO: [Eval][Epoch 42/60][Iter 30/30] Sup_Validator/loss: 0.03261, batch_cost: 0.68739s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 10:11:18] ppsci INFO: [Train][Epoch 43/60][Iter 4080/4080] lr: 0.00010, loss: 0.04121, Sup: 0.04121, batch_cost: 0.28715s, reader_cost: 0.00021s, ips: 3.48, eta: 5:31:56
+[2024/10/30 10:11:40] ppsci INFO: [Eval][Epoch 43/60][Iter 30/30] Sup_Validator/loss: 0.03256, batch_cost: 0.68700s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 10:31:18] ppsci INFO: [Train][Epoch 44/60][Iter 4080/4080] lr: 0.00009, loss: 0.04095, Sup: 0.04095, batch_cost: 0.28713s, reader_cost: 0.00022s, ips: 3.48, eta: 5:12:23
+[2024/10/30 10:31:39] ppsci INFO: [Eval][Epoch 44/60][Iter 30/30] Sup_Validator/loss: 0.03236, batch_cost: 0.68708s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 10:51:24] ppsci INFO: [Train][Epoch 45/60][Iter 4080/4080] lr: 0.00008, loss: 0.04071, Sup: 0.04071, batch_cost: 0.28723s, reader_cost: 0.00022s, ips: 3.48, eta: 4:52:58
+[2024/10/30 10:51:45] ppsci INFO: [Eval][Epoch 45/60][Iter 30/30] Sup_Validator/loss: 0.03228, batch_cost: 0.68665s, reader_cost: 0.00022s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 11:11:31] ppsci INFO: [Train][Epoch 46/60][Iter 4080/4080] lr: 0.00007, loss: 0.04047, Sup: 0.04047, batch_cost: 0.28787s, reader_cost: 0.00021s, ips: 3.47, eta: 4:34:03
+[2024/10/30 11:11:52] ppsci INFO: [Eval][Epoch 46/60][Iter 30/30] Sup_Validator/loss: 0.03212, batch_cost: 0.68693s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 11:31:36] ppsci INFO: [Train][Epoch 47/60][Iter 4080/4080] lr: 0.00006, loss: 0.04027, Sup: 0.04027, batch_cost: 0.28752s, reader_cost: 0.00022s, ips: 3.48, eta: 4:14:09
+[2024/10/30 11:31:58] ppsci INFO: [Eval][Epoch 47/60][Iter 30/30] Sup_Validator/loss: 0.03207, batch_cost: 0.68703s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 11:51:41] ppsci INFO: [Train][Epoch 48/60][Iter 4080/4080] lr: 0.00006, loss: 0.04007, Sup: 0.04007, batch_cost: 0.28739s, reader_cost: 0.00022s, ips: 3.48, eta: 3:54:30
+[2024/10/30 11:52:02] ppsci INFO: [Eval][Epoch 48/60][Iter 30/30] Sup_Validator/loss: 0.03196, batch_cost: 0.68726s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 12:11:47] ppsci INFO: [Train][Epoch 49/60][Iter 4080/4080] lr: 0.00005, loss: 0.03990, Sup: 0.03990, batch_cost: 0.28775s, reader_cost: 0.00022s, ips: 3.48, eta: 3:35:14
+[2024/10/30 12:12:09] ppsci INFO: [Eval][Epoch 49/60][Iter 30/30] Sup_Validator/loss: 0.03188, batch_cost: 0.68662s, reader_cost: 0.00020s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 12:31:48] ppsci INFO: [Train][Epoch 50/60][Iter 4080/4080] lr: 0.00004, loss: 0.03974, Sup: 0.03974, batch_cost: 0.28634s, reader_cost: 0.00021s, ips: 3.49, eta: 3:14:42
+[2024/10/30 12:32:09] ppsci INFO: [Eval][Epoch 50/60][Iter 30/30] Sup_Validator/loss: 0.03183, batch_cost: 0.68699s, reader_cost: 0.00019s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 12:51:45] ppsci INFO: [Train][Epoch 51/60][Iter 4080/4080] lr: 0.00003, loss: 0.03961, Sup: 0.03961, batch_cost: 0.28541s, reader_cost: 0.00021s, ips: 3.50, eta: 2:54:40
+[2024/10/30 12:52:06] ppsci INFO: [Eval][Epoch 51/60][Iter 30/30] Sup_Validator/loss: 0.03211, batch_cost: 0.68702s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 13:11:37] ppsci INFO: [Train][Epoch 52/60][Iter 4080/4080] lr: 0.00003, loss: 0.03949, Sup: 0.03949, batch_cost: 0.28530s, reader_cost: 0.00021s, ips: 3.51, eta: 2:35:12
+[2024/10/30 13:11:58] ppsci INFO: [Eval][Epoch 52/60][Iter 30/30] Sup_Validator/loss: 0.03174, batch_cost: 0.68636s, reader_cost: 0.00020s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 13:31:31] ppsci INFO: [Train][Epoch 53/60][Iter 4080/4080] lr: 0.00002, loss: 0.03938, Sup: 0.03938, batch_cost: 0.28480s, reader_cost: 0.00021s, ips: 3.51, eta: 2:15:33
+[2024/10/30 13:31:52] ppsci INFO: [Eval][Epoch 53/60][Iter 30/30] Sup_Validator/loss: 0.03171, batch_cost: 0.68793s, reader_cost: 0.00023s, ips: 11.63, eta: 0:00:00
+
+[2024/10/30 13:51:29] ppsci INFO: [Train][Epoch 54/60][Iter 4080/4080] lr: 0.00002, loss: 0.03929, Sup: 0.03929, batch_cost: 0.28570s, reader_cost: 0.00021s, ips: 3.50, eta: 1:56:33
+[2024/10/30 13:51:50] ppsci INFO: [Eval][Epoch 54/60][Iter 30/30] Sup_Validator/loss: 0.03168, batch_cost: 0.68701s, reader_cost: 0.00019s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 14:11:26] ppsci INFO: [Train][Epoch 55/60][Iter 4080/4080] lr: 0.00001, loss: 0.03922, Sup: 0.03922, batch_cost: 0.28549s, reader_cost: 0.00021s, ips: 3.50, eta: 1:37:04
+[2024/10/30 14:11:48] ppsci INFO: [Eval][Epoch 55/60][Iter 30/30] Sup_Validator/loss: 0.03166, batch_cost: 0.68715s, reader_cost: 0.00020s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 14:31:26] ppsci INFO: [Train][Epoch 56/60][Iter 4080/4080] lr: 0.00001, loss: 0.03916, Sup: 0.03916, batch_cost: 0.28599s, reader_cost: 0.00021s, ips: 3.50, eta: 1:17:47
+[2024/10/30 14:31:47] ppsci INFO: [Eval][Epoch 56/60][Iter 30/30] Sup_Validator/loss: 0.03165, batch_cost: 0.68639s, reader_cost: 0.00020s, ips: 11.66, eta: 0:00:00
+
+[2024/10/30 14:51:23] ppsci INFO: [Train][Epoch 57/60][Iter 4080/4080] lr: 0.00001, loss: 0.03911, Sup: 0.03911, batch_cost: 0.28556s, reader_cost: 0.00021s, ips: 3.50, eta: 0:58:15
+[2024/10/30 14:51:44] ppsci INFO: [Eval][Epoch 57/60][Iter 30/30] Sup_Validator/loss: 0.03163, batch_cost: 0.68710s, reader_cost: 0.00019s, ips: 11.64, eta: 0:00:00
+
+[2024/10/30 15:11:18] ppsci INFO: [Train][Epoch 58/60][Iter 4080/4080] lr: 0.00000, loss: 0.03907, Sup: 0.03907, batch_cost: 0.28489s, reader_cost: 0.00020s, ips: 3.51, eta: 0:38:44
+[2024/10/30 15:11:39] ppsci INFO: [Eval][Epoch 58/60][Iter 30/30] Sup_Validator/loss: 0.03162, batch_cost: 0.68691s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 15:31:12] ppsci INFO: [Train][Epoch 59/60][Iter 4080/4080] lr: 0.00000, loss: 0.03905, Sup: 0.03905, batch_cost: 0.28467s, reader_cost: 0.00021s, ips: 3.51, eta: 0:19:21
+[2024/10/30 15:31:33] ppsci INFO: [Eval][Epoch 59/60][Iter 30/30] Sup_Validator/loss: 0.03162, batch_cost: 0.68696s, reader_cost: 0.00019s, ips: 11.65, eta: 0:00:00
+
+[2024/10/30 15:51:07] ppsci INFO: [Train][Epoch 60/60][Iter 4080/4080] lr: 0.00000, loss: 0.03903, Sup: 0.03903, batch_cost: 0.28493s, reader_cost: 0.00021s, ips: 3.51, eta: 0:00:00
+[2024/10/30 15:51:28] ppsci INFO: [Eval][Epoch 60/60][Iter 30/30] Sup_Validator/loss: 0.03162, batch_cost: 0.68711s, reader_cost: 0.00019s, ips: 11.64, eta: 0:00:00

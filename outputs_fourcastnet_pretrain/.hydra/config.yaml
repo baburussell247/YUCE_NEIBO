@@ -1,0 +1,38 @@
+mode: train
+seed: 1024
+output_dir: ${hydra:run.dir}
+log_freq: 10
+IMG_H: 336
+IMG_W: 1256
+VARS_CHANNEL:
+- 0
+- 1
+USE_SAMPLED_DATA: false
+TRAIN_FILE_PATH: ./datasets/train
+DATA_MEAN_PATH: ./stats/mean.npy
+DATA_STD_PATH: ./stats/std.npy
+DATA_TIME_MEAN_PATH: ./stats/time_mean.npy
+VALID_FILE_PATH: ./datasets/valid
+MODEL:
+  afno:
+    input_keys:
+    - input
+    output_keys:
+    - output
+TRAIN:
+  epochs: 60
+  save_freq: 10
+  eval_during_train: true
+  eval_freq: 10
+  lr_scheduler:
+    epochs: ${TRAIN.epochs}
+    learning_rate: 0.0005
+    by_epoch: true
+  batch_size: 1
+  pretrained_model_path: null
+  checkpoint_path: null
+EVAL:
+  pretrained_model_path: null
+  compute_metric_by_batch: true
+  eval_with_no_grad: true
+  batch_size: 8

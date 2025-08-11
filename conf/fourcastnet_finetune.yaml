@@ -1,0 +1,76 @@
+hydra:
+  run:
+    # dynamic output directory according to running time and override name
+    dir: outputs_fourcastnet_finetune
+  job:
+    name: ${mode} # name of logfile
+    chdir: false # keep current working directory unchanged
+    config:
+      override_dirname:
+        exclude_keys:
+          - TRAIN.checkpoint_path
+          - TRAIN.pretrained_model_path
+          - EVAL.pretrained_model_path
+          - mode
+          - output_dir
+          - log_freq
+  sweep:
+    # output directory for multirun
+    dir: ${hydra.run.dir}
+    subdir: ./
+
+# general settings
+mode: eval # running mode: train/eval
+seed: 1024
+output_dir: ${hydra:run.dir}
+log_freq: 10
+
+# set training hyper-parameters
+IMG_H: 336
+IMG_W: 1256
+# FourCastNet use 20 atmospheric variable，their index in the dataset is from 0 to 19.
+# The variable name is 'u10', 'v10', 't2m', 'sp', 'msl', 't850', 'u1000', 'v1000', 'z000',
+# 'u850', 'v850', 'z850',  'u500', 'v500', 'z500', 't500', 'z50', 'r500', 'r850', 'tcwv'.
+# You can obtain detailed information about each variable from
+# https://cds.climate.copernicus.eu/cdsapp#!/search?text=era5&type=dataset
+VARS_CHANNEL: [0, 1]
+
+# set train data path
+TRAIN_FILE_PATH: ./datasets/train
+DATA_MEAN_PATH: ./stats/mean.npy
+DATA_STD_PATH: ./stats/std.npy
+DATA_TIME_MEAN_PATH: ./stats/time_mean.npy
+
+# set evaluate data path
+VALID_FILE_PATH: ./datasets/valid
+
+# set test data path
+TEST_FILE_PATH: ./datasets/test/2024_4.h5
+
+# model settings
+MODEL:
+  afno:
+    input_keys: ["input"]
+
+# training settings
+TRAIN:
+  epochs: 20
+  save_freq: 10
+  eval_during_train: true
+  eval_freq: 10
+  lr_scheduler:
+    epochs: ${TRAIN.epochs}
+    learning_rate: 1e-4
+    by_epoch: true
+  batch_size: 1
+  num_timestamps: 2
+  pretrained_model_path: outputs_fourcastnet_pretrain/checkpoints/latest
+  checkpoint_path: null
+
+# evaluation settings
+EVAL:
+  num_timestamps: 20
+  pretrained_model_path: outputs_fourcastnet_finetune/checkpoints/latest
+  compute_metric_by_batch: false
+  eval_with_no_grad: true
+  batch_size: 1
